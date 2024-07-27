@@ -22,7 +22,7 @@ Thirdly, you need to explore some fundamental and advanced topics in robot learn
 | Control and Simulation                    | [Link](https://drive.google.com/file/d/17WYHFkB5bJqSq3P19kJ6TSQROSTcP1XA/view?usp=sharing)                    |
 
 
-### Basic Programming Literacy(基础编程素养)：
+### Basic Programming Literacy：
 `We highly suggest you to master basic usage of` [git](https://pan.baidu.com/s/1Vqt6CU7M-7YaKMDZgfYmsg), [tmux](https://pan.baidu.com/s/1ikcNPMHhaWE1rtcPQCJIag), [vscode](https://pan.baidu.com/s/16Q-MQpCUhMpzh2W4mtCPbA).
 
 > * **git**: git is used for maintaining your reserach codes and collaborating/sharing with others;  
