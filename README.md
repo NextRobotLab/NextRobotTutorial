@@ -42,3 +42,8 @@ Thirdly, you need to explore some fundamental and advanced topics in robot learn
 ### Skills for Paper Writing
 
 Please go through the **tutorial of [Paper Writing@MMLAB](https://github.com/NextRobotLab/NextRobotTutorial/blob/main/How%20to%20write%20a%20good%20paper.pdf)**.
+
+## Skills for Doing Research
+
+Please go through the **tutorial of [Doing Research](https://github.com/NextRobotLab/NextRobotTutorial/blob/main/research_skills.pdf)**.
+
