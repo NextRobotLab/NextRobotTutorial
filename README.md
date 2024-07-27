@@ -1,4 +1,4 @@
-Some experiences for new researchers to grow grow up
+Some experiences for new researchers to grow up
 
 First of all, please go through the **pytorch tutorial of [Dive into DL](https://tangshusen.me/Dive-into-DL-PyTorch/#/)**.
 Secondly, please go through the **tutorial of [Robot Learning](https://github.com/yun-long/Foundations-of-Robotics)**
