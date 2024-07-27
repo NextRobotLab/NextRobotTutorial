@@ -35,6 +35,10 @@ Thirdly, you need to explore some fundamental and advanced topics in robot learn
 > 
 > * **vscode**: vscode is a wonderful tool to debug/write your deep learning projects!  
 > (vscode永远的神，丝滑debug，极致编码体验，都去用它用它！)  
-> [vscode服务器远程debug深度学习代码程序](https://pan.baidu.com/s/16Q-MQpCUhMpzh2W4mtCPbA) 
+> [vscode服务器远程debug深度学习代码程序](https://pan.baidu.com/s/16Q-MQpCUhMpzh2W4mtCPbA)
 
 
+
+### Skills for Paper Writing
+
+Please go through the **Paper Writing tutorial of MMLAB [Dive into](https://github.com/NextRobotLab/NextRobotTutorial/blob/main/How%20to%20write%20a%20good%20paper.pdf)**.
